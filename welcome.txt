@@ -1,1 +1,2 @@
-hi from computer to github repository
+hi from computer to github repository,
+cloned from github 
